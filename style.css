@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#quiz-container {
+  width: 500px;
+  margin: 50px auto;
+}
+
+#question {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.choice {
+  font-size: 18px;
+  padding: 10px 20px;
+  border: 1px solid gray;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+#result-container {
+  margin-top: 50px;
+}
+
+#result {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#proposal {
+  font-size: 18px;
+}
